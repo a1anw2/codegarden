@@ -6,4 +6,5 @@ So feel free to copy, reuse, adapt or simply ignore.
 
 Each folder is a collection or mini-project.
 
-http://alan.is/
+### Working with the SalesForce REST API
+https://alan.is/2016/10/08/working-with-salesforce-rest-api/
